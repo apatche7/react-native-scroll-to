@@ -24,13 +24,9 @@ Running this project.
 ```
 git clone https://github.com/vixdigital/react-native-scroll-to.git
 
-npm install
-```
-
-To run:
-
-```
 cd /path/to/react-native-scroll-to
+
+npm install
 
 react-native run-ios
 ```
